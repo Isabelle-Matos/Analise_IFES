@@ -1,4 +1,4 @@
-name: ds-ifes-env
+name: ifes-env
 channels:
   - conda-forge
   - defaults
